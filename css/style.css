@@ -356,11 +356,12 @@
 .animation{
     position: relative;
     display: inline-block;
-    margin-top: 18px;
+    margin-top: -18px;
 }
 .animation img{
     max-width: 609px;
     width: 100%;
+    margin-top: -100px;
 }
 .animation ul.icons-list{
     list-style: none;
